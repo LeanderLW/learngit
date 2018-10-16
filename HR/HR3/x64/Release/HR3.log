@@ -1,0 +1,32 @@
+﻿  RPPG.cpp
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(217): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(216): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(219): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(218): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(221): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(220): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(223): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(222): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(311): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(312): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(314): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(315): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(316): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(317): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(359): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(363): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(396): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(405): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(478): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(601): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(604): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(618): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vsproject\hr3 - 副本\hr3\rppg.cpp(620): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  2 of 556 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  HR3.vcxproj -> D:\vsProject\HR3 - 副本\x64\Release\HR3.exe
